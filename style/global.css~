@@ -1,0 +1,39 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background: #000;
+	font-family: 'code_boldregular';
+	text-shadow: 2px 2px #000;
+}
+h1{
+	font-size: 180px;
+	margin: 0px;
+}
+
+#slideshow img{
+width: 100%;
+}
+#slideshow {
+-webkit-filter: blur(2px); 
+    margin: 0px; 
+    position: relative; 
+    width: 100%; 
+    height: 100%; 
+    padding: 0px; 
+}
+#slideshow div{
+display: none;
+}
+#slideshow > div { 
+    position: absolute; 
+}
+#content{
+	color: #fff;
+	margin-left: 12.5%;
+	margin-top: 6.25%;	
+	position: absolute;
+	z-index: 100;
+        height: 75%;
+        width: 75%;
+}

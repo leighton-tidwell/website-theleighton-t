@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Leighton T</title>
+<link rel="stylesheet" type="text/css" href="style/global.css" />
+</head>
+<body>
+	<h1>
+		The Leighton T
+	</h1>
+<audio autoplay> 
+	<source src="http://chillstep.info:1984/listen.ogg?1383516212140">
+</audio>
+</body>
+</html>
